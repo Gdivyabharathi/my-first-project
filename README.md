@@ -78,7 +78,7 @@ RestaurantWebsite/
 ### Installation
 
 1. **Clone the repository:**
-git clone https://github.com/Gdivyabharathi/my-first-project.git
+git clone https://github.com/Gdivyabharathi/sample_restaurants_flask_app.git
 cd restaurant-website
 
 2. **Create and activate a virtual environment:**
